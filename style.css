@@ -17,12 +17,13 @@
     position: relative;
     margin-top: 20px;
   }
-  .popular a{
+  .popular p{
     padding-right: 10px;
   }
   .drop-down {
     position: absolute;
     top: 20%;
+    left: 20%;
   }
   
   li {
